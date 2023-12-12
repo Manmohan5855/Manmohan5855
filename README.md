@@ -10,6 +10,6 @@ int main()
      sum=sum+n%10;
      n=n/10;
    }
-   printf("sum of individual digitals of a positive integer is 
+   printf("sum of individual digitals of a positive integer is %d",sum);
  }
  
